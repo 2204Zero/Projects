@@ -1,3 +1,12 @@
+# Name: Rock Paper Scissors Game
+# Description: This script allows the user to play the classic game of Rock Paper Scissors against the computer.
+# The rules are simple:
+# - Rock vs Paper -> Paper wins
+# - Rock vs Scissors -> Rock wins
+# - Paper vs Scissors -> Scissors wins
+# The user can choose between Rock, Paper, or Scissors, and the computer will make a random choice.
+# The game will continue until the user decides to stop playing.
+
 import random
 
 # Print multiline instruction
