@@ -44,6 +44,11 @@ int main() {
     students[4].age = 13;
     students[4].total_marks = 78.55;
 
+    students[4].roll_number = 3;
+    students[4].name = "Navya";
+    students[4].age = 13;
+    students[4].total_marks = 78.55;
+
     // Print the Students information
     printf("========================================\n");
     printf("           Student Records              \n");
