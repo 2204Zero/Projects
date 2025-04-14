@@ -44,10 +44,15 @@ int main() {
     students[4].age = 13;
     students[4].total_marks = 78.55;
 
-    students[4].roll_number = 3;
-    students[4].name = "Navya";
-    students[4].age = 13;
-    students[4].total_marks = 78.55;
+    students[5].roll_number = 6;
+    students[5].name = "Nikita";
+    students[5].age = 16;
+    students[5].total_marks = 73.34;
+
+    students[6].roll_number = 7;
+    students[6].name = "tanya";
+    students[6].age = 14;
+    students[6].total_marks = 97.55;
 
     // Print the Students information
     printf("========================================\n");
