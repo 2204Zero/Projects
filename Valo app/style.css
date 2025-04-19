@@ -68,7 +68,8 @@ header h1{
     margin-left: 0;
 }
 .btn:hover{
-    background-color: #df1324;
+    color: #0f1923;
+    background-color: #ffffff;
 }
 footer{
     margin-top: 50px;
