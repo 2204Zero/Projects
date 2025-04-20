@@ -122,6 +122,9 @@ footer{
 .phoenix:hover {
     box-shadow: 0 0 20px #ff7300; /* orange flames */
   }
+  .KillJoy:hover {
+    box-shadow: 0 0 20px #f9da10; /* orange flames */
+  }
   
   .reyna:hover {
     box-shadow: 0 0 20px #9b00ff; /* purple soul orb */
@@ -134,3 +137,14 @@ footer{
   .viper:hover {
     box-shadow: 0 0 20px #4caf50; /* poison green */
   }
+  .Skye:hover {
+    box-shadow: 0 0 20px #4caf50; /* poison green */
+  }
+  .omen:hover {
+    box-shadow: 0 0 20px #22014f; /* poison green */
+  }
+  .Chamber:hover {
+    box-shadow: 0 0 20px #786667; /* poison green */
+  }
+
+
