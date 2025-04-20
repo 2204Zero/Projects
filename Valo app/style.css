@@ -89,3 +89,48 @@ footer{
 .btn:nth-child(5){
     margin-left: 160px;
 }
+
+
+
+
+
+.agent-list {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.agent-card {
+  background: #1f2a36;
+  padding: 20px;
+  border-radius: 12px;
+  width: 200px;
+  box-shadow: 0 0 15px rgba(255,70,85,0.3);
+  text-align: center;
+  transition: transform 0.3s;
+}
+ .agent-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px #ff4655;
+ }  
+.agent-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+.phoenix:hover {
+    box-shadow: 0 0 20px #ff7300; /* orange flames */
+  }
+  
+  .reyna:hover {
+    box-shadow: 0 0 20px #9b00ff; /* purple soul orb */
+  }
+  
+  .sage:hover {
+    box-shadow: 0 0 20px #00fff7; /* healing jade blue */
+  }
+  
+  .viper:hover {
+    box-shadow: 0 0 20px #4caf50; /* poison green */
+  }
